@@ -1,0 +1,7 @@
+MONGO_ATLAS_SRV='mongodb+srv://mafe199912:9x5IAcmxmoAk04Uu@myeccomercecoderh.3byy7fb.mongodb.net/test'
+PUERTO=8080
+ADM_EMAIL='mafe199912@gmail.com'
+SRV_EMAIL='mafe199912@gmail.com'
+PASSWORD='9x5IAcmxmoAk04Uu'
+PORT_GMAIL=465
+
